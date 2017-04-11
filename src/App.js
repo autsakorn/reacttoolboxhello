@@ -16,7 +16,7 @@ class App extends Component {
         <p className="App-intro">
 
         </p>
-        <Button raised primary>This is RT!!</Button>
+        <Button raised primary>kaew</Button>
         <TimePicker />
       </div>
     );
